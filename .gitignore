@@ -1,0 +1,34 @@
+# Node.js dependencies
+/node_modules/
+
+# TypeScript build output (default is 'dist' or 'build', but may vary)
+/dist/
+/build/
+
+# Logs
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# npm and yarn lock files, if you don't want to track lock files (usually not recommended)
+# package-lock.json
+# yarn.lock
+
+# IDEs and editor folders
+.vscode/
+.idea/
+
+# TypeScript type declarations
+*.d.ts
+
+# dotenv environment variable files
+.env
+.env.*.local
+
+# Coverage directory (if using a tool like Jest for testing)
+/coverage/
+
+# Temporary files
+*.tsbuildinfo
