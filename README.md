@@ -1,10 +1,10 @@
-#COMPILE
+# COMPILE
 
 ```sh
    tsc
 ```
 
-#RUN
+# RUN
 
 ```sh
    node ./dist/server.js
